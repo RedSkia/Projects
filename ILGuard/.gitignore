@@ -1,0 +1,14 @@
+# Binary files
+*/bin/
+
+# Intermediate files
+*/obj/
+
+# Visual Studio
+.vs/*
+
+# Console Project
+cli/*
+
+# Test Samples
+test.*

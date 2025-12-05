@@ -1,0 +1,15 @@
+D:\Desktop\ILGuard\test\console\bin\Release\net9.0\console.exe
+D:\Desktop\ILGuard\test\console\bin\Release\net9.0\console.deps.json
+D:\Desktop\ILGuard\test\console\bin\Release\net9.0\console.runtimeconfig.json
+D:\Desktop\ILGuard\test\console\bin\Release\net9.0\console.dll
+D:\Desktop\ILGuard\test\console\bin\Release\net9.0\console.pdb
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.AssemblyInfoInputs.cache
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.AssemblyInfo.cs
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.csproj.CoreCompileInputs.cache
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.sourcelink.json
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.dll
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\refint\console.dll
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.pdb
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\console.genruntimeconfig.cache
+D:\Desktop\ILGuard\test\console\obj\Release\net9.0\ref\console.dll

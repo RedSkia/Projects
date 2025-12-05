@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>$(SolutionName)</AssemblyName>
+    <RootNamespace>$(SolutionName.Replace(" ", "_"))</RootNamespace>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mono.Cecil" Version="0.11.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Obfuscator\Features\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,49 @@
+AssemblyLoader
+
+AssemblyBundler
+
+AssemblyMapper
+
+Obfuctaion Engine
+    Identifier Renaming & scoped Renaming 
+    Junk Code
+    MetaData removal
+    Runtime Checksums (Anti-Tamper)
+    Anti-Debugging
+    String Encryption
+    Single Line Code
+    Method Splitting
+    Dynamic Decrypt
+
+    Watermarking / Fingerprinting    
+
+    Telemetry Hooks?
+    Runtime Patching?
+    On-Demand Re-Obfuscation?
+    Platform-Specific Tricks?
+    Code Packing?
+    Constant Encoding?
+    Opaque Predicates?
+    Control Flow Virtualization?
+    Control Flow Obfuscation?
+    Instruction Substitution?
+
+
+
+Reverse Engineering Attacks
+Code Tampering
+Unauthorized Debugging Attempts
+
+
+Symbol renaming
+WPF/BAML renaming
+Control flow obfuscation
+Method reference hiding
+Anti debuggers/profilers
+Anti memory dumping
+Anti tampering (method encryption)
+Embedding dependency
+Constant encryption
+Resource encryption
+Compressing output
+Extensible plugin API

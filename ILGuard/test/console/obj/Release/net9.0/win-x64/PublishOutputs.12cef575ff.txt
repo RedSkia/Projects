@@ -1,0 +1,2 @@
+D:\Desktop\ILGuard\test\console\bin\Release\net9.0\publish\win-x64\console.pdb
+D:\Desktop\ILGuard\test\console\bin\Release\net9.0\publish\win-x64\console.exe
