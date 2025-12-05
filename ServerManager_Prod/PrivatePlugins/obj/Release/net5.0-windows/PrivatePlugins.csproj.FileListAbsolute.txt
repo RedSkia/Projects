@@ -1,0 +1,13 @@
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\bin\Release\net5.0-windows\PrivatePlugins.deps.json
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\bin\Release\net5.0-windows\PrivatePlugins.dll
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\bin\Release\net5.0-windows\ref\PrivatePlugins.dll
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\bin\Release\net5.0-windows\PrivatePlugins.pdb
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\PrivatePlugins.GeneratedMSBuildEditorConfig.editorconfig
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\PrivatePlugins.AssemblyInfoInputs.cache
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\PrivatePlugins.AssemblyInfo.cs
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\PrivatePlugins.csproj.CoreCompileInputs.cache
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\PrivatePlugins.dll
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\ref\PrivatePlugins.dll
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\PrivatePlugins.pdb
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\bin\Release\net5.0-windows\PluginFolder\XLogs.cs
+E:\Skrivebord\IRSM\RustManager\PrivatePlugins\obj\Release\net5.0-windows\PrivatePlugins.csproj.AssemblyReference.cache

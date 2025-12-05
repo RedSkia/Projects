@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Projects\\ServerManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|D:\\Desktop\\Projects\\ServerManager\\rustmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|solutionrelative:rustmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|d:\\desktop\\projects\\servermanager\\lib\\rustrcon\\get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\rustrcon\\get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|D:\\Desktop\\Projects\\ServerManager\\lib\\rustrcon\\structures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\rustrcon\\structures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|D:\\Desktop\\Projects\\ServerManager\\lib\\rustrcon\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\rustrcon\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|D:\\Desktop\\Projects\\ServerManager\\rustmanager\\elements\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|solutionrelative:rustmanager\\elements\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\helpers\\iconhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\helpers\\iconhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\usercontrols\\customcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\usercontrols\\customcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|D:\\Desktop\\Projects\\ServerManager\\rustmanager\\elements\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|solutionrelative:rustmanager\\elements\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\helpers\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\helpers\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|D:\\Desktop\\Projects\\ServerManager\\lib\\helpers\\bitmapconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\helpers\\bitmapconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|D:\\Desktop\\Projects\\ServerManager\\lib\\data\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\data\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|D:\\Desktop\\Projects\\ServerManager\\lib\\windows\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\windows\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|D:\\Desktop\\Projects\\ServerManager\\rustmanager\\elements\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E133D82-94D9-4E36-8100-1B8FE1EA220A}|RustManager\\RustManager.csproj|solutionrelative:rustmanager\\elements\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\usercontrols\\customcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\usercontrols\\customcolorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|D:\\Desktop\\Projects\\ServerManager\\lib\\settings\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\settings\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\usercontrols\\updatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\usercontrols\\updatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\usercontrols\\updatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\usercontrols\\updatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\richtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\richtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\richtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\richtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\usercontrols\\updatelog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\usercontrols\\updatelog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\usercontrols\\updatelog.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\usercontrols\\updatelog.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\formmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\formmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|D:\\Desktop\\Projects\\ServerManager\\lib\\rustserver\\manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A91A63A-2326-4155-912B-94EA4FE41CB8}|LIB\\LIB.csproj|solutionrelative:lib\\rustserver\\manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\usercontrols\\customcolorpicker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\usercontrols\\customcolorpicker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\menustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\menustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\menustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\menustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|D:\\Desktop\\Projects\\ServerManager\\ui\\elements\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0971C508-1B9E-4691-951C-48462ABFAB9D}|UI\\UI.csproj|solutionrelative:ui\\elements\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LIB||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RustManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormModel.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\FormModel.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\FormModel.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\FormModel.cs [Design]",
+              "RelativeToolTip": "UI\\Elements\\FormModel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:34.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormModel.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\FormModel.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\FormModel.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\FormModel.cs",
+              "RelativeToolTip": "UI\\Elements\\FormModel.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAIAwwJoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\Elements\\MainForm.cs",
+              "RelativeDocumentMoniker": "RustManager\\Elements\\MainForm.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\Elements\\MainForm.cs",
+              "RelativeToolTip": "RustManager\\Elements\\MainForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-05T14:38:35.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\Program.cs",
+              "RelativeDocumentMoniker": "RustManager\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\Program.cs",
+              "RelativeToolTip": "RustManager\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomColorPicker.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\CustomColorPicker.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\UserControls\\CustomColorPicker.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\UserControls\\CustomColorPicker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-12-05T14:38:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomColorPicker.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\CustomColorPicker.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\UserControls\\CustomColorPicker.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\CustomColorPicker.cs",
+              "RelativeToolTip": "UI\\Elements\\UserControls\\CustomColorPicker.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAIA+wOMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-12-05T14:38:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IconHandler.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Helpers\\IconHandler.cs",
+              "RelativeDocumentMoniker": "UI\\Helpers\\IconHandler.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Helpers\\IconHandler.cs",
+              "RelativeToolTip": "UI\\Helpers\\IconHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Get.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustRcon\\Get.cs",
+              "RelativeDocumentMoniker": "LIB\\RustRcon\\Get.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustRcon\\Get.cs",
+              "RelativeToolTip": "LIB\\RustRcon\\Get.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAIAzwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustRcon\\Client.cs",
+              "RelativeDocumentMoniker": "LIB\\RustRcon\\Client.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustRcon\\Client.cs",
+              "RelativeToolTip": "LIB\\RustRcon\\Client.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Data\\Pool.cs",
+              "RelativeDocumentMoniker": "LIB\\Data\\Pool.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Data\\Pool.cs",
+              "RelativeToolTip": "LIB\\Data\\Pool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dialog.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Windows\\Dialog.cs",
+              "RelativeDocumentMoniker": "LIB\\Windows\\Dialog.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Windows\\Dialog.cs",
+              "RelativeToolTip": "LIB\\Windows\\Dialog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CORE.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Settings\\CORE.cs",
+              "RelativeDocumentMoniker": "LIB\\Settings\\CORE.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Settings\\CORE.cs",
+              "RelativeToolTip": "LIB\\Settings\\CORE.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BitmapConverter.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Helpers\\BitmapConverter.cs",
+              "RelativeDocumentMoniker": "LIB\\Helpers\\BitmapConverter.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\Helpers\\BitmapConverter.cs",
+              "RelativeToolTip": "LIB\\Helpers\\BitmapConverter.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwKIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Helpers\\Color.cs",
+              "RelativeDocumentMoniker": "UI\\Helpers\\Color.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Helpers\\Color.cs",
+              "RelativeToolTip": "UI\\Helpers\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\Elements\\MainForm.cs",
+              "RelativeDocumentMoniker": "RustManager\\Elements\\MainForm.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\RustManager\\Elements\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-05T14:38:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Structures.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustRcon\\Structures.cs",
+              "RelativeDocumentMoniker": "LIB\\RustRcon\\Structures.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustRcon\\Structures.cs",
+              "RelativeToolTip": "LIB\\RustRcon\\Structures.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TabControl.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\TabControl.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\TabControl.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\TabControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomColorPicker.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\CustomColorPicker.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\UserControls\\CustomColorPicker.Designer.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\CustomColorPicker.Designer.cs",
+              "RelativeToolTip": "UI\\Elements\\UserControls\\CustomColorPicker.Designer.cs",
+              "ViewState": "AQIAAMMCAAAAAAAAAAAhwMcDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-05T14:38:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\Elements\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "RustManager\\Elements\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\Elements\\MainForm.Designer.cs",
+              "RelativeToolTip": "RustManager\\Elements\\MainForm.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAhwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-05T14:38:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateLog.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\UpdateLog.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\UserControls\\UpdateLog.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\UserControls\\UpdateLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-12-05T14:38:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateLog.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\UpdateLog.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\UserControls\\UpdateLog.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\UpdateLog.cs",
+              "RelativeToolTip": "UI\\Elements\\UserControls\\UpdateLog.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAzwE4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-12-05T14:38:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateLog.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\UpdateLog.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\UserControls\\UpdateLog.Designer.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\UpdateLog.Designer.cs",
+              "RelativeToolTip": "UI\\Elements\\UserControls\\UpdateLog.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAEwCoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-05T14:38:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateLog.resx",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\UpdateLog.resx",
+              "RelativeDocumentMoniker": "UI\\Elements\\UserControls\\UpdateLog.resx",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\UserControls\\UpdateLog.resx",
+              "RelativeToolTip": "UI\\Elements\\UserControls\\UpdateLog.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-12-05T14:38:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RichTextBox.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\RichTextBox.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\RichTextBox.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\RichTextBox.cs",
+              "RelativeToolTip": "UI\\Elements\\RichTextBox.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RichTextBox.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\RichTextBox.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\RichTextBox.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\RichTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Manage.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustServer\\Manage.cs",
+              "RelativeDocumentMoniker": "LIB\\RustServer\\Manage.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\RustServer\\Manage.cs",
+              "RelativeToolTip": "LIB\\RustServer\\Manage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UI",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2022-03-22T14:41:48.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormModel.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\FormModel.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\FormModel.Designer.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\FormModel.Designer.cs",
+              "RelativeToolTip": "UI\\Elements\\FormModel.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:38:35.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Checkbox.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Checkbox.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\Checkbox.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Checkbox.cs",
+              "RelativeToolTip": "UI\\Elements\\Checkbox.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Checkbox.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Checkbox.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\Checkbox.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\Checkbox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Button.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Button.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\Button.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\Button.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Button.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\Button.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Button.cs",
+              "RelativeToolTip": "UI\\Elements\\Button.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ComboBox.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\ComboBox.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\ComboBox.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\ComboBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ComboBox.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\ComboBox.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\ComboBox.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\ComboBox.cs",
+              "RelativeToolTip": "UI\\Elements\\ComboBox.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DataGridView.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\DataGridView.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\DataGridView.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\DataGridView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MenuStrip.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\MenuStrip.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\MenuStrip.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\MenuStrip.cs",
+              "RelativeToolTip": "UI\\Elements\\MenuStrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TabControl.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\TabControl.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\TabControl.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\TabControl.cs",
+              "RelativeToolTip": "UI\\Elements\\TabControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MenuStrip.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\MenuStrip.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\MenuStrip.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\MenuStrip.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Line.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\Line.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Line.cs",
+              "RelativeToolTip": "UI\\Elements\\Line.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Line.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\Line.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\Line.cs",
+              "ToolTip": "E:\\Skrivebord\\IRSM\\UI\\Elements\\Line.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DataGridView.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\DataGridView.cs",
+              "RelativeDocumentMoniker": "UI\\Elements\\DataGridView.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\UI\\Elements\\DataGridView.cs",
+              "RelativeToolTip": "UI\\Elements\\DataGridView.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2025-12-05T14:38:35.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LIB",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\LIB\\LIB.csproj",
+              "RelativeDocumentMoniker": "LIB\\LIB.csproj",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\LIB\\LIB.csproj",
+              "RelativeToolTip": "LIB\\LIB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2022-03-22T14:41:55.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RustManager",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\RustManager.csproj",
+              "RelativeDocumentMoniker": "RustManager\\RustManager.csproj",
+              "ToolTip": "D:\\Desktop\\Projects\\ServerManager\\RustManager\\RustManager.csproj",
+              "RelativeToolTip": "RustManager\\RustManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2022-03-22T14:41:52.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

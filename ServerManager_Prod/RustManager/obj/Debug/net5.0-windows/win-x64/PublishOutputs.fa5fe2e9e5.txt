@@ -1,0 +1,2 @@
+E:\Skrivebord\Programs\Test\RustManager.pdb
+E:\Skrivebord\Programs\Test\RustManager.exe

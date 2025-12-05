@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC6AC3B-BAFA-4ACB-A649-76CE4EFE90F0}|Application\\Application.csproj|d:\\marcus\\desktop\\obfuscator_old\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC6AC3B-BAFA-4ACB-A649-76CE4EFE90F0}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C657D491-69B9-458D-B5B9-3C475B63C651}|Utilities\\Utilities.csproj|d:\\marcus\\desktop\\obfuscator_old\\utilities\\extensions\\reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C657D491-69B9-458D-B5B9-3C475B63C651}|Utilities\\Utilities.csproj|solutionrelative:utilities\\extensions\\reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C657D491-69B9-458D-B5B9-3C475B63C651}|Utilities\\Utilities.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\utilities\\extensions\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C657D491-69B9-458D-B5B9-3C475B63C651}|Utilities\\Utilities.csproj|solutionrelative:utilities\\extensions\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\flagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\flagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\customtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\customtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\flagmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\flagmanager2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\#flagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\#flagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C657D491-69B9-458D-B5B9-3C475B63C651}|Utilities\\Utilities.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\utilities\\tools\\debuglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C657D491-69B9-458D-B5B9-3C475B63C651}|Utilities\\Utilities.csproj|solutionrelative:utilities\\tools\\debuglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\obfuscator\\obfuscator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FB592F5D-F063-42CE-B93A-2063EB0A57B1}|Obfuscator\\Obfuscator.csproj|solutionrelative:obfuscator\\obfuscator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC6AC3B-BAFA-4ACB-A649-76CE4EFE90F0}|Application\\Application.csproj|D:\\Marcus\\Desktop\\Obfuscator_OLD\\application\\application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3BC6AC3B-BAFA-4ACB-A649-76CE4EFE90F0}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:19:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\Exceptions.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\Exceptions.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\Exceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:36.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\EventManager.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\EventManager.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\EventManager.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\EventManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:35.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlagManager2.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\FlagManager2.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\FlagManager2.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\FlagManager2.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\FlagManager2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:04:50.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "#FlagManager.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\#FlagManager.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\#FlagManager.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\#FlagManager.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\#FlagManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:04:34.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomTimer.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\CustomTimer.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\CustomTimer.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\CustomTimer.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\CustomTimer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:28:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\Logger.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\Logger.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\Logger.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T19:18:00.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlagManager.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\FlagManager.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\FlagManager.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\FlagManager.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\FlagManager.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T19:17:58.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\FileReader.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Common\\FileReader.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Common\\FileReader.cs",
+              "RelativeToolTip": "Obfuscator\\Common\\FileReader.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T19:17:48.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Analyzer.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Analyzer.cs",
+              "RelativeDocumentMoniker": "Obfuscator\\Analyzer.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Analyzer.cs",
+              "RelativeToolTip": "Obfuscator\\Analyzer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T19:17:40.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Utilities\\Extensions\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\DataHelper.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Utilities\\Extensions\\DataHelper.cs",
+              "RelativeToolTip": "Utilities\\Extensions\\DataHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T18:56:45.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reflection.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Utilities\\Extensions\\Reflection.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\Reflection.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Utilities\\Extensions\\Reflection.cs",
+              "RelativeToolTip": "Utilities\\Extensions\\Reflection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T18:35:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Obfuscator",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Obfuscator.csproj",
+              "RelativeDocumentMoniker": "Obfuscator\\Obfuscator.csproj",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Obfuscator\\Obfuscator.csproj",
+              "RelativeToolTip": "Obfuscator\\Obfuscator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-23T17:47:21.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DebugLogger.cs",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Utilities\\Tools\\DebugLogger.cs",
+              "RelativeDocumentMoniker": "Utilities\\Tools\\DebugLogger.cs",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Utilities\\Tools\\DebugLogger.cs",
+              "RelativeToolTip": "Utilities\\Tools\\DebugLogger.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T16:18:19.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application",
+              "DocumentMoniker": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Marcus\\Desktop\\Obfuscator_OLD\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-21T08:31:09.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

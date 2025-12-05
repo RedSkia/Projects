@@ -1,0 +1,11 @@
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+D:\Marcus\Desktop\Obfuscator\Utilities\bin\Debug\net7.0\Utilities.deps.json
+D:\Marcus\Desktop\Obfuscator\Utilities\bin\Debug\net7.0\Utilities.dll
+D:\Marcus\Desktop\Obfuscator\Utilities\bin\Debug\net7.0\Utilities.pdb
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\Utilities.dll
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\Utilities.pdb
+D:\Marcus\Desktop\Obfuscator\Utilities\obj\Debug\net7.0\ref\Utilities.dll

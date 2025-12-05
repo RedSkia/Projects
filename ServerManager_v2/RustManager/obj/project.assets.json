@@ -1,0 +1,172 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "LIB/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LIB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LIB.dll": {}
+        }
+      },
+      "UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "LIB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "LIB/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LIB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LIB.dll": {}
+        }
+      },
+      "UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "LIB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "LIB/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LIB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LIB.dll": {}
+        }
+      },
+      "UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "LIB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "LIB/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LIB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LIB.dll": {}
+        }
+      },
+      "UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "LIB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LIB/1.0.0": {
+      "type": "project",
+      "path": "../LIB/LIB.csproj",
+      "msbuildProject": "../LIB/LIB.csproj"
+    },
+    "UI/1.0.0": {
+      "type": "project",
+      "path": "../UI/UI.csproj",
+      "msbuildProject": "../UI/UI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "LIB >= 1.0.0",
+      "UI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Marcus\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Skrivebord\\IRSM\\RustManager\\RustManager.csproj",
+      "projectName": "RustManager",
+      "projectPath": "E:\\Skrivebord\\IRSM\\RustManager\\RustManager.csproj",
+      "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
+      "outputPath": "E:\\Skrivebord\\IRSM\\RustManager\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj": {
+              "projectPath": "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj"
+            },
+            "E:\\Skrivebord\\IRSM\\UI\\UI.csproj": {
+              "projectPath": "E:\\Skrivebord\\IRSM\\UI\\UI.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

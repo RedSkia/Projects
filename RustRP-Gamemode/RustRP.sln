@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RustRP", "RustRP\RustRP.csproj", "{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptBundler", "ScriptBundler\ScriptBundler.csproj", "{AA00BD6A-9A2E-4A3C-B4C7-3CA755741E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA00BD6A-9A2E-4A3C-B4C7-3CA755741E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA00BD6A-9A2E-4A3C-B4C7-3CA755741E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA00BD6A-9A2E-4A3C-B4C7-3CA755741E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA00BD6A-9A2E-4A3C-B4C7-3CA755741E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ECDCD47-E64A-44E9-B714-FD2E107F4179}
+	EndGlobalSection
+EndGlobal

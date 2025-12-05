@@ -1,0 +1,3 @@
+D:\Marcus\Desktop\Obfuscator\Application\bin\Release\Application.pdb
+D:\Marcus\Desktop\Obfuscator\Application\bin\Release\Obfuscator.pdb
+D:\Marcus\Desktop\Obfuscator\Application\bin\Release\Application.exe

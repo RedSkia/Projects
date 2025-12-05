@@ -1,0 +1,16 @@
+E:\Skrivebord\IRSM\UI\bin\Debug\UI.dll
+E:\Skrivebord\IRSM\UI\bin\Debug\UI.pdb
+E:\Skrivebord\IRSM\UI\bin\Debug\LIB.dll
+E:\Skrivebord\IRSM\UI\bin\Debug\Newtonsoft.Json.dll
+E:\Skrivebord\IRSM\UI\bin\Debug\LIB.pdb
+E:\Skrivebord\IRSM\UI\bin\Debug\Newtonsoft.Json.xml
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.Elements.FormModel.resources
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.Properties.Resources.resources
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.csproj.CopyComplete
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.dll
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.pdb
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.Elements.UserControls.CustomColorPicker.resources
+E:\Skrivebord\IRSM\UI\obj\Debug\UI.Elements.UserControls.UpdateLog.resources

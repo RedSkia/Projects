@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Projects\\RustRP-Gamemode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zonedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zonedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zonecommander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zonecommander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\basescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\basescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|d:\\desktop\\projects\\rustrp-gamemode\\rustrp\\rustrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\rustrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zonecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zonecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zonecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zonecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zoneflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zoneflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zonehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zonehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zoneobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zoneobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\zonemanager\\zonerect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\zonemanager\\zonerect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\playerex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\playerex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\playerdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\playerdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\itemcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\itemcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\imagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\imagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\flagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\flagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\corerp\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\corerp\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\rustrp\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D07ED0-7FA8-4B91-B480-EBB8050AAFEA}|RustRP\\RustRP.csproj|solutionrelative:rustrp\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA00BD6A-9A2E-4A3C-B4C7-3CA755741E1D}|ScriptBundler\\ScriptBundler.csproj|D:\\Desktop\\Projects\\RustRP-Gamemode\\scriptbundler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA00BD6A-9A2E-4A3C-B4C7-3CA755741E1D}|ScriptBundler\\ScriptBundler.csproj|solutionrelative:scriptbundler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RustRP||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseScript.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\BaseScript.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\BaseScript.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\BaseScript.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\BaseScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZoneCollider.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneCollider.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneCollider.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneCollider.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneCollider.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAIAzwFAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemCreator.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\ItemCreator.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\ItemCreator.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\ItemCreator.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\ItemCreator.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerDataManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\PlayerDataManager.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\PlayerDataManager.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\PlayerDataManager.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\PlayerDataManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerEx.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\PlayerEx.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\PlayerEx.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\PlayerEx.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\PlayerEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Security.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\Security.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\Security.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\Security.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\Security.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBAAAADEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\UI.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\UI.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\UI.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\UI.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwHAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZoneCommander.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneCommander.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneCommander.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneCommander.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneCommander.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZoneCreator.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneCreator.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneCreator.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneCreator.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneCreator.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAIAzwHgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZoneRect.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneRect.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneRect.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneRect.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneRect.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZoneObject.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneObject.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneObject.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneObject.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZoneHelper.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneHelper.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneHelper.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneHelper.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZoneFlags.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneFlags.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneFlags.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneFlags.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneFlags.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZoneData.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneData.cs",
+              "RelativeDocumentMoniker": "RustRP\\ZoneManager\\ZoneData.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\ZoneManager\\ZoneData.cs",
+              "RelativeToolTip": "RustRP\\ZoneManager\\ZoneData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RustRP.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\RustRP.cs",
+              "RelativeDocumentMoniker": "RustRP\\RustRP.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\RustRP.cs",
+              "RelativeToolTip": "RustRP\\RustRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImageManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\ImageManager.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\ImageManager.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\ImageManager.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\ImageManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlagManager.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\FlagManager.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\FlagManager.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\FlagManager.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\FlagManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\FileLogger.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\FileLogger.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\FileLogger.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\FileLogger.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\Extensions.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\Extensions.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\Extensions.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contracts.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\Contracts.cs",
+              "RelativeDocumentMoniker": "RustRP\\CoreRP\\Contracts.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\CoreRP\\Contracts.cs",
+              "RelativeToolTip": "RustRP\\CoreRP\\Contracts.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\Settings.cs",
+              "RelativeDocumentMoniker": "RustRP\\Settings.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\Settings.cs",
+              "RelativeToolTip": "RustRP\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\ScriptBundler\\Program.cs",
+              "RelativeDocumentMoniker": "ScriptBundler\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\ScriptBundler\\Program.cs",
+              "RelativeToolTip": "ScriptBundler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:37:36.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RustRP",
+              "DocumentMoniker": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\RustRP.csproj",
+              "RelativeDocumentMoniker": "RustRP\\RustRP.csproj",
+              "ToolTip": "D:\\Desktop\\Projects\\RustRP-Gamemode\\RustRP\\RustRP.csproj",
+              "RelativeToolTip": "RustRP\\RustRP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-06-02T10:11:12.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

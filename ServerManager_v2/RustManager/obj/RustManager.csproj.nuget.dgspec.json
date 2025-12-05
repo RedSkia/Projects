@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Skrivebord\\IRSM\\RustManager\\RustManager.csproj": {}
+  },
+  "projects": {
+    "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj",
+        "projectName": "LIB",
+        "projectPath": "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\Skrivebord\\IRSM\\RustManager\\RustManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Skrivebord\\IRSM\\RustManager\\RustManager.csproj",
+        "projectName": "RustManager",
+        "projectPath": "E:\\Skrivebord\\IRSM\\RustManager\\RustManager.csproj",
+        "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
+        "outputPath": "E:\\Skrivebord\\IRSM\\RustManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj": {
+                "projectPath": "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj"
+              },
+              "E:\\Skrivebord\\IRSM\\UI\\UI.csproj": {
+                "projectPath": "E:\\Skrivebord\\IRSM\\UI\\UI.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Skrivebord\\IRSM\\UI\\UI.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Skrivebord\\IRSM\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "E:\\Skrivebord\\IRSM\\UI\\UI.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj": {
+                "projectPath": "E:\\Skrivebord\\IRSM\\LIB\\LIB.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows7.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AppDesignerFolder>Resources</AppDesignerFolder>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrivatePlugins\PrivatePlugins.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Data\AppCollections.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppCollections.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\AppData.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppData.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\AppInfo.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppInfo.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\AppInstallerData.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppInstallerData.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\AppUserSettings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppUserSettings.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\DataLog.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DataLog.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\Icons.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Icons.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Data\OverlayEditorData.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>OverlayEditorData.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\RestartData.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RestartData.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Data\ServerDataLog.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ServerDataLog.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Data\Icons.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Icons.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\AppCollections.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>AppCollections.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\AppData.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>AppData.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\AppInfo.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>AppInfo.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\AppInstallerData.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>AppInstallerData.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\AppUserSettings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>AppUserSettings.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\DataLog.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>DataLog.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\OverlayEditorData.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>OverlayEditorData.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\RestartData.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>RestartData.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\ServerDataLog.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>ServerDataLog.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

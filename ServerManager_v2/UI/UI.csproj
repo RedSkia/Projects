@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0971C508-1B9E-4691-951C-48462ABFAB9D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\IRSM.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Elements\Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\Checkbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\ComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\DataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\FormModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Elements\FormModel.Designer.cs">
+      <DependentUpon>FormModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elements\Line.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\MenuStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\RichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\TabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Elements\UserControls\CustomColorPicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Elements\UserControls\CustomColorPicker.Designer.cs">
+      <DependentUpon>CustomColorPicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elements\UserControls\UpdateLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Elements\UserControls\UpdateLog.Designer.cs">
+      <DependentUpon>UpdateLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Color.cs" />
+    <Compile Include="Helpers\IconHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Elements\FormModel.resx">
+      <DependentUpon>FormModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Elements\UserControls\CustomColorPicker.resx">
+      <DependentUpon>CustomColorPicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Elements\UserControls\UpdateLog.resx">
+      <DependentUpon>UpdateLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\IRSM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LIB\LIB.csproj">
+      <Project>{9a91a63a-2326-4155-912b-94ea4fe41cb8}</Project>
+      <Name>LIB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizedB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximiseB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IRSM.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlaceHolder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueColor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkColor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LightColor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit1000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo1000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checkmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArrowDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArrowUp.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

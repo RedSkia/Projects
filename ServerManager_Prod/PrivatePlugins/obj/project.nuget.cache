@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGS00TeqewQ=",
+  "success": true,
+  "projectFilePath": "D:\\#Desktop\\Coding\\C#\\OLD\\OLD#IRSM\\39\\RustManager\\PrivatePlugins\\PrivatePlugins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

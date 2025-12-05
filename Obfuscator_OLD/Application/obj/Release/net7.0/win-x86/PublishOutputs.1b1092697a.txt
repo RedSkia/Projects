@@ -1,0 +1,2 @@
+D:\Marcus\Desktop\Obfuscator\Application\bin\Release\net7.0\publish\win-x86\Application.pdb
+D:\Marcus\Desktop\Obfuscator\Application\bin\Release\net7.0\publish\win-x86\Application.exe

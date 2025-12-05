@@ -1,0 +1,38 @@
+TODO
+    Npc System
+    Job System
+    The map (City)
+    Points System
+
+
+
+Jobs/Roles
+    Citizen
+    Bank Manager
+    Security Guard
+    President
+    Secret Service
+    Club Owner
+    Hotel Owner
+    Casino Manager
+    Hospital manager
+    Medic
+    Chef
+    Licenced Gun Dealer
+    Black Market Dealer
+    Drug Dealer
+    Hitman
+    Thief
+    Miner
+    Police Officer
+    Police Cadet
+    Swat
+    Swat captain
+    Guard
+    Homeless
+
+
+World/Map
+    A premade map (city) with premade buildings
+    Users can buy a building claiming a zone
+    A building system allowing users to spawn walls etc with a menu

@@ -1,0 +1,11 @@
+E:\Skrivebord\IRSM\LIB\bin\Debug\LIB.dll
+E:\Skrivebord\IRSM\LIB\bin\Debug\LIB.pdb
+E:\Skrivebord\IRSM\LIB\bin\Debug\Newtonsoft.Json.dll
+E:\Skrivebord\IRSM\LIB\bin\Debug\Newtonsoft.Json.xml
+E:\Skrivebord\IRSM\LIB\obj\Debug\LIB.csproj.AssemblyReference.cache
+E:\Skrivebord\IRSM\LIB\obj\Debug\LIB.csproj.CoreCompileInputs.cache
+E:\Skrivebord\IRSM\LIB\obj\Debug\LIB.csproj.CopyComplete
+E:\Skrivebord\IRSM\LIB\obj\Debug\LIB.dll
+E:\Skrivebord\IRSM\LIB\obj\Debug\LIB.pdb
+E:\Skrivebord\IRSM\LIB\obj\Debug\LIB.Properties.Resources.resources
+E:\Skrivebord\IRSM\LIB\obj\Debug\LIB.csproj.GenerateResource.cache

@@ -1,0 +1,15 @@
+D:\Marcus\Desktop\Obfuscator\Obfuscator\bin\Debug\net7.0\Obfuscator.deps.json
+D:\Marcus\Desktop\Obfuscator\Obfuscator\bin\Debug\net7.0\Obfuscator.dll
+D:\Marcus\Desktop\Obfuscator\Obfuscator\bin\Debug\net7.0\Obfuscator.pdb
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.AssemblyInfoInputs.cache
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.AssemblyInfo.cs
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.csproj.CoreCompileInputs.cache
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.dll
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\refint\Obfuscator.dll
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.pdb
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\ref\Obfuscator.dll
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.csproj.AssemblyReference.cache
+D:\Marcus\Desktop\Obfuscator\Obfuscator\bin\Debug\net7.0\Utilities.dll
+D:\Marcus\Desktop\Obfuscator\Obfuscator\bin\Debug\net7.0\Utilities.pdb
+D:\Marcus\Desktop\Obfuscator\Obfuscator\obj\Debug\net7.0\Obfuscator.csproj.CopyComplete
